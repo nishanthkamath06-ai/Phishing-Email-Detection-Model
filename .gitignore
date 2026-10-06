@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+synthetic_emails.csv
+confusion_matrix.png
+phishing_model.joblib
+tfidf_vectorizer.joblib
